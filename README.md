@@ -1,8 +1,7 @@
 # Standford University Machine Learning program by Andrew NG
 
 Please find in this repo a detail of my personal training taking the Machine Learning program by Andrew NG @Stanford University.
-
-This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition including: 
+This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. The programming assignement are done in Matlab and includes : 
 
 ##  Supervised learning 
 
